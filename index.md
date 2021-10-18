@@ -34,7 +34,7 @@
 
 ## Expériences Professionnels
 
-**Youtube / Discord** *(de 09/2019 A aujourd'hui)*
+## **Youtube / Discord** *(de 09/2019 A aujourd'hui)*
 **Graphiste, monteur vidéo**
 
 ### __*Tâches réalisées*__ :
@@ -45,7 +45,7 @@
 
 * Réalisation de montage photo et vidéo
 
-**SV Peinture - Vesly (27870 - France)** *(du 11/06/2019 Au 31 aout 2019)*
+## **SV Peinture - Vesly (27870 - France)** *(du 11/06/2019 Au 31 aout 2019)*
 **Assistant Ouvrier**
 
 ### __*Tâches réalisées*__ : 
@@ -62,15 +62,15 @@
 
 * Présentation de maquette de Logo pour l'entreprise SV Peinture.
 
-**Petit CASINO - Gournay en Bray (76220 - France)** *(du 3/06/2018 Au 30/06/2018)*
+## **Petit CASINO - Gournay en Bray (76220 - France)** *(du 3/06/2018 Au 30/06/2018)*
 
 **Employé de Magasin**
 
-### Tâches réalisées : 
+### __*Tâches réalisées*__ : 
 
 * Réalisation d'inventaires (2), réception de livraisons (vérifications avec bordereaux de livraisons) et mise en rayon.
 
-## Hobbies
+## **Hobbies**
 
 * **Volley-Ball** - Club EGVB de Gisors (5 ans - compétition)
 
