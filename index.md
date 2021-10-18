@@ -23,7 +23,7 @@
 
 * *Français* : Matéernelle
 * *Anglais* : B1
-* *Espagnol : A2
+* *Espagnol* : A2
 
 ## Formation 
 
