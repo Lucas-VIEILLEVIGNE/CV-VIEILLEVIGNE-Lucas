@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+# VIEILLEVIGNE LUCAS
 
-You can use the [editor on GitHub](https://github.com/Lucas-VIEILLEVIGNE/CV-VIEILLEVIGNE-Lucas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 18 ans / Permis B (en cours)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Actuellement à la recherche d'une entrée dans le monde de la création numérique
 
-### Markdown
+## Coordonnées :
+* **tél** : 06 20 22 10 44
+* **Mail** : vieillevignelucas@gmail.com
+* **Adresse** : 129 rue Méridienne - 76100 - Rouen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Personnalité : 
+* *Sociabilité* : 5/5
+* *Attentivité* : 4/5
+* *Créativité* : 5/5
 
-```markdown
-Syntax highlighted code block
+## Compétences :
+* *Création d'identité graphique* : 5/5
+* *Gestion de réseaux sociaux* : 4/5
+* *Relation entreprise/client* : 4/5
 
-# Header 1
-## Header 2
-### Header 3
+## Langues
 
-- Bulleted
-- List
+* *Français* : Matéernelle
+* *Anglais* : B1
+* *Espagnol : A2
 
-1. Numbered
-2. List
+## Formation 
 
-**Bold** and _Italic_ and `Code` text
+* 2020 - **Baccalauréat Spécialités Mathématiques et Physique Chimie - Mention Assez-Bien**
+*Lycée Louise Michel Gisors - 27140*
 
-[Link](url) and ![Image](src)
-```
+* 2018 - **Brevet des collèges - Mention très bien** - Collège Victor Hugo Gisors - 27140
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Expériences Professionnels
 
-### Jekyll Themes
+**Youtube / Discord** *(de 09/2019 A aujourd'hui)*
+**Graphiste, monteur vidéo**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lucas-VIEILLEVIGNE/CV-VIEILLEVIGNE-Lucas/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### __*Tâches réalisées*__ :
 
-### Support or Contact
+* Réalisation de maquette graphique pour créer une identité graphique à un créateur de contenu sur internet (logo, bannière Youtube / Twitch).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Gestion de serveur Discord communautaires de plusieurs centaines de membres avec gestion et modération de ces derniers.
+
+* Réalisation de montage photo et vidéo
+
+**SV Peinture - Vesly (27870 - France)** *(du 11/06/2019 Au 31 aout 2019)*
+**Assistant Ouvrier**
+
+### __*Tâches réalisées*__ : 
+
+* Restauration totale dans un appartement au Vésinet
+
+* Assistance à la réalisation de tâches manuelles : Pose d'IPN, pose de parois (BA13), découpe et pose de carrelage, réfection de système électrique, pose de parquet, plâtre et enduit
+
+**Graphiste**
+
+### __*Tâches réalisées*__ : 
+
+* Décoration d'intérieur et aide au choix des couleurs ainsi qu'à l'agencement des meubles, de la décoration et de la cuisine.
+
+* Présentation de maquette de Logo pour l'entreprise SV Peinture.
+
+**Petit CASINO - Gournay en Bray (76220 - France)** *(du 3/06/2018 Au 30/06/2018)*
+
+**Employé de Magasin**
+
+### Tâches réalisées : 
+
+* Réalisation d'inventaires (2), réception de livraisons (vérifications avec bordereaux de livraisons) et mise en rayon.
+
+## Hobbies
+
+* **Volley-Ball** - Club EGVB de Gisors (5 ans - compétition)
+
+* **Dessin Graphisme** (Papier et digital)
+
+* **Création de contenu vidéo-ludique** (Youtube / Twitch)
