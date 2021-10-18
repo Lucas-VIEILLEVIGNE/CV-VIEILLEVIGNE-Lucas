@@ -19,3 +19,19 @@
 * *Gestion de réseaux sociaux* : 4/5
 * *Relation entreprise/client* : 4/5
 
+## Langues
+
+* *Français* : Matéernelle
+* *Anglais* : B1
+* *Espagnol : A2
+
+## Formation 
+
+* 2020 - **Baccalauréat Spécialités Mathématiques et Physique Chimie - Mention Assez-Bien**
+*Lycée Louise Michel Gisors - 27140*
+
+* 2018 - **Brevet des collèges - Mention très bien** - Collège Victor Hugo Gisors - 27140
+
+
+
+
