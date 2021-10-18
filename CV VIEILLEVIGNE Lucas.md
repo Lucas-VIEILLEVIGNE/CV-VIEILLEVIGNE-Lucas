@@ -8,3 +8,8 @@
 * **tél** : 06 20 22 10 44
 * **Mail** : vieillevignelucas@gmail.com
 * **Adresse** : 129 rue Méridienne - 76100 - Rouen
+
+## Personnalité : 
+* *Sociabilité* : 5/5
+* *Attentivité* : 4/5
+* *Créativité* : 5/5
