@@ -70,8 +70,13 @@
 
 * Réalisation d'inventaires (2), réception de livraisons (vérifications avec bordereaux de livraisons) et mise en rayon.
 
+## Hobbies
 
+* **Volley-Ball** - Club EGVB de Gisors (5 ans - compétition)
 
+* **Dessin Graphisme** (Papier et digital)
+
+* **Création de contenu vidéo-ludique** (Youtube / Twitch)
 
 
 
