@@ -13,3 +13,9 @@
 * *Sociabilité* : 5/5
 * *Attentivité* : 4/5
 * *Créativité* : 5/5
+
+## Compétences :
+* *Création d'identité graphique* : 5/5
+* *Gestion de réseaux sociaux* : 4/5
+* *Relation entreprise/client* : 4/5
+
